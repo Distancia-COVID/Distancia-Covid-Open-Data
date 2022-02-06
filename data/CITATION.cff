@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+authors:
+  - given-names: John R.B.
+    family-names: Palmer
+    affiliation: Universitat Pompeu Fabra
+    orcid: "https://orcid.org/0000-0002-2648-7860"
+  - given-names: Ramona
+    family-names: Ottow
+    affiliation: Universitat Pompeu Fabra
+  - given-names: Frederic
+    family-names: Bartumeus
+    affiliation: Centre d’Estudis Avançats de Blanes (CEAB-CSIC)
+    orcid: "https://orcid.org/0000-0001-6908-3797"
+title: "Distancia-Covid Contact Estimates for Spain"
+version: 1.0.0
+doi: 10.5281/zenodo.5983903
+date-released: 2022-02-06
+

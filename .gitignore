@@ -1,0 +1,13 @@
+_processing_scripts
+.Rhistory
+
+*.sublime-project
+*.sublime-workspace
+
+*.log
+
+*.Rproj
+.DS_Store
+.Rhistory
+.Rprofile
+.Rproj.user/

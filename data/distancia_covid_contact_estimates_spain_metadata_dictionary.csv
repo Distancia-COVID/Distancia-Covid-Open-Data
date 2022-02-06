@@ -1,0 +1,15 @@
+variable,description
+wave,Distancia-Covid Survey (DCS) wave on which the estimates in this row are based. Integer.
+period,Time period during this the DCS wave took place. The survey responses on which the estimates in this row are based were received in this time period. Character indicating date range.
+age_group_scheme,"The age group scheme used for the estimates in this row. When constructing a contact matrix from this data, only one age group scheme should be selected. Character."
+ego_age_group,The age group of the egos for which these estimates are based. Estimates are of egos' mean contacts with alters. Character.
+alter_age_group,The age group of the alters for which these estimates are based. Estimates are of egos' mean contacts with alters. Character.
+ego_population_size,"The population size of the egos' age group, based on the contemporaneous Spanish Labor Force Survey (LFS). This is not the full population of Spain but rather the populaton residing in family dwellings, as defined by that survey. It is estimated from LFS during the year and quarter that overlaps with the survey wave. Integer."
+ego_sample_size_LFS,The number of individuals sampled by the contemporaneous LFS in the ego age group. Integer.
+ego_sample_size_DCS,The number of individuals sampled by the DCS in the ego age group. Integer.
+reciprocity,"Reciprocity constraint (if any) used in the estimate. Possible values are: none = no reciprocity constraint, unweighted = reciprocity enforced with equal weights given to ego and alter contacts, weights = reciprocity enforced with ego and alter contacts weighted based on their relative sample sizes. Character."
+cores_LFS,Mean coresidents estimated from the LFS. Decimal.
+cores_DCS,Mean coresidents estimated from the DCS Decimal.
+noncores_DCS,Mean non-coresident contacts estimated from the DCS. Decimal.
+all_LFS_DCS,Mean contacts overall (coresidents plus non-coresident contacts) calculated by adding LFS coresidents to DCS non-coresidents. Decimal.
+all_DCS_DCS,Mean contacts overall (coresidents plus non-coresident contacts) calculated by adding DCS coresidents to DCS non-coresidents. Decimal.

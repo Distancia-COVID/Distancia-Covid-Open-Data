@@ -1,6 +1,6 @@
 # Distancia-Covid-Open-Data
 
-Distancia-Covid Contact Estimates for Spain
+#### Distancia-Covid Contact Estimates for Spain
 
 Estimates of age-specific contact patterns in Spain during the Covid-19 pandemic. This data was generated from the CSIC Distancia-Covid survey (https://distancia-covid.csic.es/). It includes estimated mean numbers of coresidents and non-coresident contacts by age group during 2020 and 2021.
 
@@ -13,7 +13,7 @@ See `data/distancia_covid_contact_estimates_spain_metadata_dictionary.csv` for 
 
 #### Distancia-Covid Project Principal Investigators
 
-- José J. Ramasco (coordinator), Instituto de Física Interdisciplinar y Sistemas Complejos (IFISC-CSIC)</p>"
+- José J. Ramasco (coordinator), Instituto de Física Interdisciplinar y Sistemas Complejos (IFISC-CSIC)
 - Frederic Bartumeus (coordinator), Centre d’Estudis Avançats de Blanes (CEAB-CSIC) & CREAF
 - Alvaro López García, Instituto de Física de Cantabria (IFCA-CSIC)
 - Diego Ramiro Fariñas, Instituto de Economía, Geografía y Demografía (IEDG-CSIC)

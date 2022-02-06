@@ -6,6 +6,21 @@ Estimates of age-specific contact patterns in Spain during the Covid-19 pandemic
 
 See `data/distancia_covid_contact_estimates_spain_metadata_dictionary.csv` for variable descriptions.
 
+#### Dataset Authors
+- John Palmer, Universitat Pompeu Fabra (UPF)
+- Ramona Ottow, Universitat Pompeu Fabra (UPF)
+- Frederic Bartumeus, Centre d’Estudis Avançats de Blanes (CEAB-CSIC) & CREAF
+
+#### Distancia-Covid Project Principal Investigators
+
+- José J. Ramasco (coordinator), Instituto de Física Interdisciplinar y Sistemas Complejos (IFISC-CSIC)</p>"
+- Frederic Bartumeus (coordinator), Centre d’Estudis Avançats de Blanes (CEAB-CSIC) & CREAF
+- Alvaro López García, Instituto de Física de Cantabria (IFCA-CSIC)
+- Diego Ramiro Fariñas, Instituto de Economía, Geografía y Demografía (IEDG-CSIC)
+- Sandro Meloni, Instituto de Física Interdisciplinar y Sistemas Complejos (IFISC-CSIC)
+- David Alonso, Centre d’Estudis Avançats de Blanes (CEAB-CSIC)
+- John Palmer (external PI), Universitat Pompeu Fabra (UPF)
+
 This data was generated from the survey implemented through the project "Impacto de las medidas de distanciamiento social sobre la expansión de la epidemia de Covid-19 en España," funded by the Spanish National Research Council (Consejo Superior de Investigaciones Científicas, CSIC). Processing and analysis was done with support from the Human-Mosquito Interaction Project (H-MIP) funded by European Research Council Starting Grant No. 853271, and the Versatile emerging infectious disease observatory (VEO) funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 874735.
 
 All releases from this repository are also hosted on Zenodo. The latest versions can be found at:

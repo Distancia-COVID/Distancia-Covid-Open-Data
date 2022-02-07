@@ -1,4 +1,6 @@
 variable,description
+geography,"Geographic aggregation of the estimates in this row. Options are spain = all of Spain, and ccaa = autonomous community. Character."
+CCAA,"Name of the Spanish autonomous community (comunidad autónoma) for which the estimates in this row are made. Empty for geography = spain, otherwise character."
 wave,Distancia-Covid Survey (DCS) wave on which the estimates in this row are based. Integer.
 period,Time period during this the DCS wave took place. The survey responses on which the estimates in this row are based were received in this time period. Character indicating date range.
 age_group_scheme,"The age group scheme used for the estimates in this row. When constructing a contact matrix from this data, only one age group scheme should be selected. Character."

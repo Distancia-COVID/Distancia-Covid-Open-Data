@@ -1,10 +1,15 @@
-# Distancia-Covid-Open-Data
+### Distancia-Covid Contact Estimates for Spain. 
 
-#### Distancia-Covid Contact Estimates for Spain
+Estimates of age-specific contact patterns in Spain during the Covid-19 pandemic. This data was generated from the CSIC Distancia-Covid survey (https://distancia-covid.csic.es/). It includes estimated mean numbers of coresidents and non-coresident contacts by age group during 2020 and 2021, for all of Spain and disaggregated by autonomous community. (See `data/distancia_covid_contact_estimates_spain_metadata_dictionary.csv` for variable descriptions.) This repository also includes the survey instrument used in each wave.
 
-Estimates of age-specific contact patterns in Spain during the Covid-19 pandemic. This data was generated from the CSIC Distancia-Covid survey (https://distancia-covid.csic.es/). It includes estimated mean numbers of coresidents and non-coresident contacts by age group during 2020 and 2021.
+#### File Descriptions
 
-See `data/distancia_covid_contact_estimates_spain_metadata_dictionary.csv` for variable descriptions.
+- `distancia_covid_contact_estimates_spain_metadata_dictionary`: Data dictionary with variable descriptions
+- `distancia_covid_contact_estimates_spain.csv`: Contact estimates
+- `distancia_covid_instrument_wave_1.xlsx`: Survey instrument used in Wave 1
+- `distancia_covid_instrument_wave_2.xlsx`: Survey instrument used in Wave 2
+- `distancia_covid_instrument_wave_3_4.xlsx`: Survey instrument used in Waves 3 and 4
+- `CITATION.cff`: Citation information 
 
 #### Dataset Authors
 - John Palmer, Universitat Pompeu Fabra (UPF)
